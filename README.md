@@ -10,7 +10,7 @@ A healthcare data analytics project that evaluates clinic performance through pa
 ![Domain](https://img.shields.io/badge/Domain-Healthcare%20Finance-purple)
 
 > **Author:** Umul Hasanah  
-> **LinkedIn:** [LinkedIn](www.linkedin.com/in/umulhasanah) 
+> **LinkedIn:** [www.linkedin.com/in/umulhasanah] 
 > **Tools:** Python · Pandas · Matplotlib · Microsoft Excel  
 
 ---
@@ -177,7 +177,7 @@ Universitas Riau Kepulauan (GPA 3.75 / 4.00, Cum Laude)
 
 4+ years of experience as Administrative Staff Coordinator at a dental clinic in Batam, with hands-on expertise in financial recording, budgeting, insurance claims, and operational reporting. Certified in Full Stack Data Analytics (RevoU, 2024).
 
-🔗 [LinkedIn](www.linkedin.com/in/umulhasanah) · 💻 [GitHub](https://github.com/umulhasanah) · ✉️ umulhasanah30@gmail.com
+🔗 [www.linkedin.com/in/umulhasanah] · 💻 [GitHub](https://github.com/umulhasanah) · ✉️ umulhasanah30@gmail.com
 
 ---
 
