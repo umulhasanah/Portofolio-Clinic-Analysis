@@ -10,7 +10,7 @@ A healthcare data analytics project that evaluates clinic performance through pa
 ![Domain](https://img.shields.io/badge/Domain-Healthcare%20Finance-purple)
 
 > **Author:** Umul Hasanah  
-> **LinkedIn:** (www.linkedin.com/in/umulhasanah)  
+> **LinkedIn:** [LinkedIn](www.linkedin.com/in/umulhasanah) 
 > **Tools:** Python · Pandas · Matplotlib · Microsoft Excel  
 
 ---
