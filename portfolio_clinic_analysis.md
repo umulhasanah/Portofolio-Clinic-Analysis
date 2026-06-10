@@ -1,7 +1,7 @@
 # 🏥 Clinic Revenue & Patient Visit Analysis
 **Tools:** Python (Pandas, Matplotlib) | Excel | Tableau  
 **Domain:** Healthcare Operations | Financial Reporting  
-**Author:** Umul Hasanah | [LinkedIn](https://linkedin.com/in/umul-hasanah)
+**Author:** Umul Hasanah | [LinkedIn](www.linkedin.com/in/umulhasanah)
 
 ---
 
